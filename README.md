@@ -16,7 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😂Random Dev Meme
-<img src="https://images.wallpapersden.com/image/download/anonymous-hacker-working_bGllZ21umZqaraWkpJrZmWltrWdlaW0.jpg" width="512px" />
+![Hacker](https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/Anonymous_emblem.svg/512px-Anonymous_emblem.svg.png)
+
 
 
 ---
