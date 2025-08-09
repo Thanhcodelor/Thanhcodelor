@@ -16,7 +16,8 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😎My dream
-![Hacker](main/H.jpg)
+![Hacker](H.jpg)
+
 
 
 
