@@ -1,3 +1,6 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Thanhcodelor/Thanhcodelor/main/rainbow-text.svg" alt="Rainbow Text"/>
+</p>
 
 
 ## 🌐Socials
