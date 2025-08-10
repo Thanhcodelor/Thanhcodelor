@@ -20,7 +20,7 @@
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
 ### 😎My dream
-![Hacker](H.jpg)
+<img src="H.jpg" alt="Hacker" width="300"/>
 
 
 
