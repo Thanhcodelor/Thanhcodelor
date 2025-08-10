@@ -1,4 +1,4 @@
-<svg width="100%" height="160" xmlns="http://www.w3.org/2000/svg">
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 1200 180">
   <defs>
     <linearGradient id="rainbow" x1="0%" y1="0%" x2="200%" y2="0%">
       <stop offset="0%" stop-color="red" />
@@ -13,10 +13,10 @@
     </linearGradient>
   </defs>
 
-  <text x="50%" y="40%" font-size="22" font-weight="bold" text-anchor="middle" fill="url(#rainbow)">
+  <text x="50%" y="45%" font-size="28" font-weight="bold" text-anchor="middle" fill="url(#rainbow)">
     Tôi là 1 chàng trai hiện đang học lớp 10,
   </text>
-  <text x="50%" y="75%" font-size="22" font-weight="bold" text-anchor="middle" fill="url(#rainbow)">
+  <text x="50%" y="85%" font-size="28" font-weight="bold" text-anchor="middle" fill="url(#rainbow)">
     tôi sẽ chinh phục kì thi HSG Tin học cấp tỉnh và Tin học trẻ. I don't never give up!
   </text>
 </svg>
