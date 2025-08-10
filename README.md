@@ -1,22 +1,5 @@
-<p align="center">
-  <span style="
-    font-size: 28px; 
-    font-weight: bold; 
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet); 
-    -webkit-background-clip: text; 
-    color: transparent;
-    animation: rainbow 5s linear infinite;
-  ">
-    Tôi là 1 chàng trai hiện đang học lớp 10, sẽ chinh phục kì thi HSG Tin học cấp tỉnh và Tin học trẻ. I don't never give up
-  </span>
-</p>
+<img src="https://raw.githubusercontent.com/<Thanhcodelor>/<repo>/main/rainbow-text.svg" width="100%">
 
-<style>
-  @keyframes rainbow {
-    0% { background-position: 0% 50%; }
-    100% { background-position: 100% 50%; }
-  }
-</style>
 
 
 ## 🌐Socials
