@@ -1,7 +1,4 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Thanhcodelor/Thanhcodelor/main/rainbow-text.svg" alt="Rainbow Text"/>
-</p>
-
+![My text](my-rainbow-text.png)
 
 ## 🌐Socials
 [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://www.facebook.com/truongthanhzzzOO/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@thanh_pro12) 
