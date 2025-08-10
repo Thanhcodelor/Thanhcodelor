@@ -1,26 +1,3 @@
-<h1 align="center">
-  <span style="
-    font-weight: bold;
-    font-size: 28px;
-    background: linear-gradient(90deg, red, orange, yellow, green, blue, indigo, violet);
-    -webkit-background-clip: text;
-    color: transparent;
-    animation: rainbow 4s linear infinite;
-    background-size: 400% 100%;
-    display: inline-block;
-  ">
-    Tôi là 1 chàng trai hiện đang học lớp 10,<br>
-    tôi sẽ chinh phục kì thi HSG Tin học cấp tỉnh và Tin học trẻ.<br>
-    I don't never give up!
-  </span>
-</h1>
-
-<style>
-@keyframes rainbow {
-  0% { background-position: 0% 50%; }
-  100% { background-position: 100% 50%; }
-}
-</style>
 
 
 ## 🌐Socials
