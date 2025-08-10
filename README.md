@@ -1,4 +1,5 @@
-<img src="https://raw.githubusercontent.com/<Thanhcodelor>/<repo>/main/rainbow-text.svg" width="100%">
+<img src="https://raw.githubusercontent.com/Thanhcodelor/Thanhcodelor/main/rainbow-text.svg" width="100%">
+
 
 
 
